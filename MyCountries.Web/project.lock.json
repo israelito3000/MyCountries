@@ -4239,10 +4239,10 @@
           "lib/DNXCore50/System.Net.Security.dll": {}
         }
       },
-      "System.Net.Sockets/4.1.0-beta-23225": {
+      "System.Net.Sockets/4.1.0-beta-23220": {
         "type": "package",
         "dependencies": {
-          "System.Private.Networking": "4.0.1-beta-23225",
+          "System.Private.Networking": "4.0.1-beta-23220",
           "System.Runtime": "4.0.20"
         },
         "compile": {
@@ -5860,7 +5860,7 @@
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0-beta1-20150812-01": {
       "type": "package",
-      "sha512": "lIhWRroF8XRQZ/czkqDjiEsXb3ZKUNPhKZTCN1gybgNvMJ0K4k+SnbCbCTA5Ag7WoB9tiC13gHhX8M4kGR4ZEQ==",
+      "sha512": "mGKPHMowSaS6frF/ze8eM/gJqZr5A1TniBTU7MI41Cg9zeKgrgwZltCJ6JjDvYnVtfkHlTWM8oHIaL7q5yxpgg==",
       "files": [
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.Analyzers.dll",
@@ -5876,7 +5876,7 @@
     },
     "Microsoft.CodeAnalysis.Common/1.1.0-beta1-20150812-01": {
       "type": "package",
-      "sha512": "0fKn7s4ZxdHPJvlQ0VAmtpWh8lsijHbr3AsSxTtvY0+2Yci3g8vn+Na24664978YLMbMJx+jshw/ymyqRCTePg==",
+      "sha512": "0aqVF3qcBwmm5KOrtgu3YvHVkMGaH03UvkU+zknwvmsyqcv9MuYIvD1VHRamAGRRvxsn8QEfqdSWcTIn/0qrFw==",
       "files": [
         "lib/net45/Microsoft.CodeAnalysis.dll",
         "lib/net45/Microsoft.CodeAnalysis.xml",
@@ -5890,7 +5890,7 @@
     },
     "Microsoft.CodeAnalysis.CSharp/1.1.0-beta1-20150812-01": {
       "type": "package",
-      "sha512": "RTQAcTU65h2NBHmzVkx/PmM7skiybNM4OiLfnvWVmGh62GxuAegPD47hWzINQQhB/zqIN79jwpg7cU3Lr0nliw==",
+      "sha512": "IPwDPTdOWRbgAvnFp0my3p6CO2STL+Ejx4xnwf2VzRWdxbpujSQqUS3LLWVSKvr9EeRKT66eYf6T9NlEkviEMw==",
       "files": [
         "lib/net45/Microsoft.CodeAnalysis.CSharp.dll",
         "lib/net45/Microsoft.CodeAnalysis.CSharp.xml",
@@ -7408,10 +7408,10 @@
         "System.Net.Security.nuspec"
       ]
     },
-    "System.Net.Sockets/4.1.0-beta-23225": {
+    "System.Net.Sockets/4.1.0-beta-23220": {
       "type": "package",
       "serviceable": true,
-      "sha512": "9wupz6i8AONzdzaLglcYImU25ivdcKmBXnf9GxE0eS1QqRGWQcWkKyv4dyxMc9E0gt4UuTIktn2FLjrz8ir6sw==",
+      "sha512": "AYZ53H/5TRq4DCP8Df3cRL+xHftyzWEg2o1UwS6oRbstz0MDTwo7GZeRTyav4DnamY6Ua46EvDOTF48dSx89Aw==",
       "files": [
         "lib/DNXCore50/System.Net.Sockets.dll",
         "lib/MonoAndroid10/_._",
@@ -7425,8 +7425,8 @@
         "ref/net46/System.Net.Sockets.dll",
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
-        "System.Net.Sockets.4.1.0-beta-23225.nupkg",
-        "System.Net.Sockets.4.1.0-beta-23225.nupkg.sha512",
+        "System.Net.Sockets.4.1.0-beta-23220.nupkg",
+        "System.Net.Sockets.4.1.0-beta-23220.nupkg.sha512",
         "System.Net.Sockets.nuspec"
       ]
     },
@@ -7615,7 +7615,7 @@
     "System.Reflection.Metadata/1.1.0-alpha-00009": {
       "type": "package",
       "serviceable": true,
-      "sha512": "KiUpXjNsXH27WwbtS5szL8qagPTlIzxrwPAAatLsPqlgkZtCQuA+Ss1XqbTUJxv1KweaNh/q5jGFdUFV0HILRw==",
+      "sha512": "/ZU4HyvuFjJuVZuGh5nGNe188dRg3EUAGGVbTtMEnuHrPwKft+YzOzPINJvItWNWJXng+QufzCsWmW++O+o53Q==",
       "files": [
         "lib/portable-net45+win8/System.Reflection.Metadata.dll",
         "lib/portable-net45+win8/System.Reflection.Metadata.pdb",
